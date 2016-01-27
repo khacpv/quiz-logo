@@ -3,4 +3,27 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="colorAlizarin">#e74c3c</color>
+
+    <!-- screen.home -->
+    <color name="home.background">#EDE7F6</color>
+    <color name="home.title.background">#FFFFFF</color>
+    <color name="home.title.foreground">#311B92</color>
+    <color name="home.btn0.background">#EDE7F6</color>
+    <color name="home.btn0.foreground">#4A148C</color>
+    <color name="home.btn1.background">#F8BBD0</color>
+    <color name="home.btn1.foreground">#FF0000</color>
+    <color name="home.btn2.background">#B3E5FC</color>
+    <color name="home.btn2.foreground">#7700FF</color>
+    <color name="home.btn3.background">#F0F4C3</color>
+    <color name="home.btn3.foreground">#FF0000</color>
+    <color name="home.btn4.background">#FFCCBC</color>
+    <color name="home.btn4.foreground">#1A237E</color>
+    <color name="home.btn5.background">#FFCDD2</color>
+    <color name="home.btn5.foreground">#487423</color>
+
+
+
+
 </resources>
